@@ -81,8 +81,8 @@ button:disabled {
 
 .carte:hover {
     transform: scale(1.05);
+}
 
-    }
 .carte button {
     width: 100%;
 }
@@ -97,63 +97,63 @@ footer {
 
 .carte1  {
     background-image: url('images/catgirl.jpg');
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte2  {
     background-image: url('images/mongraal.png');
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte3  {
     background-image: url("images/christophecolomb.webp");
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte4  {
     background-image: url("images/discord.webp");
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte5  {
     background-image: url("images/egirl.webp");
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte6  {
     background-image: url("images/table.jpg");
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte7  {
     background-image: url("images/chat.jpg");
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte8  {
     background-image: url("images/boule.jpg");
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .carte9  {
     background-image: url("images/lion.jpg");
-    background-size: cover;       
-    background-position: center;  
+    background-size: cover;
+    background-position: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
 }
